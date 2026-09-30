@@ -1,0 +1,37 @@
+[
+    {
+        "codigo": "0001",
+        "nombre": "Bandeja Familiar",
+        "precio": 45.5,
+        "categoria": "Plato Casa",
+        "stock": 34
+    },
+    {
+        "codigo": "0002",
+        "nombre": "Combo Hamburguesas x3",
+        "precio": 12.7,
+        "categoria": "Premiun",
+        "stock": 11
+    },
+    {
+        "codigo": "0003",
+        "nombre": "Ceviche De Camaron",
+        "precio": 10.58,
+        "categoria": "Plato Casa",
+        "stock": 11
+    },
+    {
+        "codigo": "0004",
+        "nombre": "Arroz Marinero",
+        "precio": 15.2,
+        "categoria": "Plato Fuerte",
+        "stock": 18
+    },
+    {
+        "codigo": "0005",
+        "nombre": "Pescado Frito",
+        "precio": 10.25,
+        "categoria": "Plato Especial",
+        "stock": 12
+    }
+]

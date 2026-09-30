@@ -1,0 +1,51 @@
+[
+    {
+        "identificacion": "1313287680",
+        "nombre": "Lizbeth flores",
+        "usuario": "lizbeth",
+        "contraseña": "1234",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "0804049104",
+        "nombre": "Briggitte Ceron",
+        "usuario": "briggitte",
+        "contraseña": "1234",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "1234567891",
+        "nombre": "Carlos Barcia",
+        "usuario": "carlos",
+        "contraseña": "1234",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "0812345678",
+        "nombre": "Juan Perez",
+        "usuario": "juan",
+        "contraseña": "1234",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "9999999999",
+        "nombre": "Maria Lopez",
+        "usuario": "maria",
+        "contraseña": "1234",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1234567888",
+        "nombre": "Lucas Franco",
+        "usuario": "lucas",
+        "contraseña": "1234",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1111111111",
+        "nombre": "Mateo Flores",
+        "usuario": "mateo",
+        "contraseña": "1234",
+        "rol": "Cliente"
+    }
+]
